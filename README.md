@@ -1,0 +1,1 @@
+This is a mod I created in 2011-2012 for starcraft 2. It Includes a rigid body physics engine that I designed and implemented. I also created user interfaces, game mechanics, sound, and other aspects related to game design. I was able to run alpha and beta stages of my mod, and accepted criticism from players to make improvements to the code.
