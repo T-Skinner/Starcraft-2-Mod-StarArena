@@ -1,1 +1,3 @@
-This is a mod I created in 2011-2012 for starcraft 2. It Includes a rigid body physics engine that I designed and implemented. I also created user interfaces, game mechanics, sound, and other aspects related to game design. I was able to run alpha and beta stages of my mod, and accepted criticism from players to make improvements to the code.
+This is a mod I created in 2011-2012 for starcraft 2. It Includes a rigid body physics engine that I designed and implemented. I also created user interfaces, game mechanics, sound, and other aspects related to game design. I was able to run alpha and beta stages of my mod, and accepted criticism from players to make improvements to the code. Click the image for a youtube video of the game.
+
+[![Youtube video](/stararena.png?raw=true)](https://www.youtube.com/watch?v=Sk39MSDMkP0)
